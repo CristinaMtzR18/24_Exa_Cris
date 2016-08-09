@@ -1,0 +1,60 @@
+/*Codigo del index*/
+*{
+	font-family: 'Dosis', sans-serif;
+}
+
+nav>a{ /*Selector de hijo directo que me ayuda a darle estilo solo a los a hijos directos de nav*/
+	padding-right: 15px;
+  	text-decoration: none;
+  	font-weight: bold;
+  	font-size: 18px;
+}
+
+hr{
+	height: 5px;
+	color: #918F8F;
+	width: 100%;
+}
+
+a{
+  	text-decoration: none;
+  	font-weight: bold;
+}
+
+header p{
+	font-size: 35px;
+	font-style: inherit;
+}
+
+header strong{
+	font-size: 35px;
+}
+
+.miBoton{ 
+	display:inline-block;
+	font-weight: bold;
+	text-decoration:none;
+	border-radius: 25px; 
+}
+
+.botonGris{ 
+	background: rgb(145,143,143); 
+    padding: 10px;
+}
+img{
+	box-shadow: 2px 2px 5px #999;
+}
+
+.submenun{
+	padding-right: 15px;
+  	text-decoration: none;
+  	font-weight: bold;
+  	font-size: 18px;
+ }
+
+.miP2{
+	font-family: 'Open Sans';
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+}
