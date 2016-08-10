@@ -43,8 +43,18 @@ strong {
 .mg-0{
 	margin: 0;
 }
+.mb-2{
+	margin-bottom: 2%;
+}
 .mg-5{
 	margin-bottom: 5%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.m-20{
+	margin-top: 20%;
+	margin-bottom: 8%;
 }
 .w-100{
 	width: 100%;
@@ -67,6 +77,9 @@ strong {
 }
 .text-white{
 	color: white;
+}
+.text-white2{
+	color: rgba(255,255,255,.3);
 }
 .text-gray{
 	color: #888;
@@ -96,7 +109,6 @@ strong {
 	background-color: rgb(255, 255, 255);
 	box-shadow: 2px 2px 5px #999;
 }
-
 .bg-black{
 	background-color: rgb(0, 0, 0);
 }

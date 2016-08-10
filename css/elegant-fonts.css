@@ -1135,6 +1135,18 @@ text-shadow: none;
         margin-right: 20px;
         }
 
+        .glyph_big2 {
+        font-size: 20px;
+        margin-right: 5px;
+        margin-top: 5px;
+        border: dotted 3px;
+        border-radius: 100%;
+        padding: 7px;
+        }
+        big2 {
+        font-size: 60px;
+        }
+
         .glyph div { padding-bottom: 10px;}
 
 	.glyph input {
